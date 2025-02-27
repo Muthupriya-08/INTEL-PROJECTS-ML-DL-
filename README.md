@@ -4,7 +4,8 @@
 
 
 🌸 Iris Flower Classification
-Welcome to the Iris Flower Classification project! 🌿 In this project, we build a machine learning model to classify iris flowers into one of three species based on their physical attributes. With just a few simple measurements, we can predict whether an iris is a Setosa, Versicolor, or Virginica!
+Welcome to the Iris Flower Classification project! 
+    🌿 In this project, we build a machine learning model to classify iris flowers into one of three species based on their physical attributes. With just a few simple measurements, we can predict whether an iris is a Setosa, Versicolor, or Virginica!
  
 The Iris dataset contains measurements of irises and aims to classify them into three species:
 Setosa
